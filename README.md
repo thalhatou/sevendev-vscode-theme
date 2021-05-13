@@ -6,11 +6,11 @@ Thanks for checking out my VS Code theme 😇.
 A modern Dark Material Theme which lets you stay Seven   while coding.💻
 
 
-[![Seven Dev Theme Demo](images/demo.png)]()
+[![Seven Dev Theme Demo](images/demo.png)]
 
-[![Seven Dev Theme Demo](images/demo2.png)]()
+[![Seven Dev Theme Demo](images/demo2.png)]
 
-[![Seven Dev Theme Demo](images/demo3.png)]()
+[![Seven Dev Theme Demo](images/demo3.png)]
 
 ## Color Palette
 [![Seven Dev Theme Demo](images/icon/plc.png)]()
