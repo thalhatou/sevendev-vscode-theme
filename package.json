@@ -1,0 +1,47 @@
+{
+    "name": "sevendev-theme",
+    "displayName": "Seven Dev theme",
+    "description": "seven devs vs code extension theme",
+    "version": "0.0.1",
+    "publisher": "Techlewa",
+    "author": {
+    "name": "Thalhatou Yahya"
+  },
+    "engines": {
+        "vscode": "^1.55.2"
+    },
+     "repository": {
+    "type": "git",
+    "url": "https://github.com/thalhatou/sevendev-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/codestackr/codestackr-vscode-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#00AB9F",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "seven dev Theme",
+    "Dark Theme",
+    "VSCode Seven",
+    "vsCodedev",
+    "code",
+    "blue seven",
+    "orange",
+    "yellow"
+  ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Seven Dev Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Seven Dev Theme-color-theme.json"
+            }
+        ]
+    }
+}
