@@ -1,9 +1,9 @@
 {
     "name": "sevendev-theme",
     "displayName": "Seven Dev theme",
-    "description": "seven devs vs code extension theme",
-    "version": "0.0.1",
-    "publisher": "Techlewa",
+    "description": "A modern Dark VS-Code Material theme for Seven Nerds",
+    "version": "1.0.0",
+    "publisher": "Thalhatou",
     "author": {
     "name": "Thalhatou Yahya"
   },
@@ -15,7 +15,7 @@
     "url": "https://github.com/thalhatou/sevendev-vscode-theme"
   },
   "bugs": {
-    "url": "https://github.com/codestackr/codestackr-vscode-theme/issues"
+    "url": "https://github.com/thalhatou/sevendev-vscode-theme/issues"
   },
   "galleryBanner": {
     "color": "#00AB9F",
@@ -28,6 +28,8 @@
   "keywords": [
     "seven dev Theme",
     "Dark Theme",
+    "seven academy",
+    "seven gps",
     "VSCode Seven",
     "vsCodedev",
     "code",

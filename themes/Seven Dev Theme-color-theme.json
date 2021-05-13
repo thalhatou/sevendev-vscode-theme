@@ -19,7 +19,7 @@
       "name": "String Escape",
       "scope": "constant.character.escape, text.html constant.character.entity.named, punctuation.definition.entity.html",
       "settings": {
-        "foreground": "#00ffee"
+        "foreground": "#00AB9F"
       }
     },
     {
