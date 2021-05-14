@@ -3,17 +3,19 @@
 
 Thanks for checking out my VS Code theme 😇. 
 
+![Seven Dev Theme Demo](images/icon/logo.png)
+
 A modern Dark Material Theme which lets you stay Seven   while coding.💻
 
 
-[![Seven Dev Theme Demo](images/demo.png)]
+![Seven Dev Theme Demo](images/demo.png)
 
-[![Seven Dev Theme Demo](images/demo2.png)]
+![Seven Dev Theme Demo](images/demo2.png)
 
-[![Seven Dev Theme Demo](images/demo3.png)]
+![Seven Dev Theme Demo](images/demo3.png)
 
 ## Color Palette
-[![Seven Dev Theme Demo](images/icon/plc.png)]()
+![seven dev theme color pallette](images/icon/plc.png)
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
